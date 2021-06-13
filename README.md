@@ -2,6 +2,10 @@
 Checkers is a classic board games. In this project, I've programmed an agent to play checkers with the user. 
 
 +++++
+Credits
+Possible thanks to the series of tutorials by Tech with Tim and the good folks at stackoverflow
+
++++++
 Requirements:
 
 python 3.9.4
