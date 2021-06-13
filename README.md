@@ -1,9 +1,12 @@
 # checkersbot
 Checkers is a classic board games. In this project, I've programmed an agent to play checkers with the user. 
+The current version is not fully debugged.
 
 +++++
-Credits
-Possible thanks to the series of tutorials by Tech with Tim and the good folks at stackoverflow
+Credits:
+
+Possible thanks to the series of tutorials by Tech with Tim and the good folks at stackoverflow.
+
 
 +++++
 Requirements:
